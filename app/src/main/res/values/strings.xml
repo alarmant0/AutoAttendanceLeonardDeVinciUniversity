@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OutplayESILVCCC</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">Notification</string>
+    <string name="CCC_service_name">ccc_accessibility\n</string>
+    <string name="accessibility_service_label">OutplayDeVinci Service</string>
+    <string name="accessibility_service_description">F DeVinci</string>
+    <string name="allow_permissions">Allow permissions</string>
+    <string name="autoClicker">Auto clicker</string>
+    <string name="board">Board</string>
+    <string name="start">Start</string>
+</resources>
