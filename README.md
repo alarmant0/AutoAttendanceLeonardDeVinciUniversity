@@ -21,10 +21,6 @@ To use the LeonardDeVinci Attendance Checker:
 
 This application is provided "as is" and without warranty of any kind. The developers and contributors of this application are not responsible for any misuse or unauthorized use of the application. Use it at your own risk.
 
-## Contributing
-
-Contributions to this project are welcome! If you have any suggestions, improvements, or feature requests, please feel free to open an issue or create a pull request.
-
 ## License
 
 This application is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
