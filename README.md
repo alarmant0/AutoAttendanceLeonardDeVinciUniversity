@@ -23,5 +23,5 @@ This application is provided "as is" and without warranty of any kind. The devel
 
 ## License
 
-This application is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This application is licensed under the [LICENSE](LICENSE).
 
