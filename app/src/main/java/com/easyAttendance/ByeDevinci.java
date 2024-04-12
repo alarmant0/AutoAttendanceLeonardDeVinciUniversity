@@ -27,7 +27,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ByeDevinci extends AccessibilityService {
-    private static final String TAG = "porfavorrr";
+    private static final String TAG = "TESTING:";
     private boolean clicked = false;
 
     @Override
